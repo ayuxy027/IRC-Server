@@ -1,0 +1,13 @@
+URL = Uniform Resource Locator
+
+https://www.ayuxy.dev/
+
+here https is the protocol
+
+https is SecurityPolicyViolationEvent, here SSL Certificate Certificate is used 
+
+http is not secure 
+
+rest everything is domain which targets out IP address
+
+the last '/' is the path

@@ -1,0 +1,15 @@
+app.use(express.urlencoded({ extended: false }));
+
+what this will do is whenever there is data incoming from the server it shows it in the body
+
+Middleware as the name suggets the middleware is the middleman of an API Operation.
+
+Middleware's main objective is to add authentication, authorization and Validation.
+
+We can have multiple middlewares in a code block
+
+Next() will tranfer the middleware to the next middleware
+
+res.end 
+return res.json({xyz})
+these can stothe middleware from executing terminating the code 

@@ -1,0 +1,20 @@
+When working with HTTP Requests, such as GET, POST, or others
+
+Handling them with looping if-else statements can quickly lead to code clutter and a decline in readability and quality.
+
+Express.js effectively resolves this issue by providing a streamlined and organized framework for managing routes and handling requests.
+
+
+<------ Working Of Express ------->
+
+1. const Express = require "express";
+
+2. then make an object= express()
+
+3. then start using
+
+ ex - app.method (path, (req, res)=>
+      {
+      return res.end("Output)
+      })
+

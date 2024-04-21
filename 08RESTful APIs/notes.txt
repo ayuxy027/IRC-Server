@@ -1,0 +1,19 @@
+Set of rules which match the industry level production and scalable backend
+
+Rules 
+
+1. Server Client Architecture
+
+-- Server and Client must be independent of each other , both must be differsent entities
+
+2. Server Side Rendering
+
+-- Fast and Secure
+
+3. Clean Code 
+
+-- Clear naming and Shorter URLs
+
+4. Use all HTTPS methods 
+
+-- Use all HTTPS methods i.e get, post, put, delete, patch not only get and post

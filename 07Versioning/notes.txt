@@ -1,0 +1,21 @@
+Covering Versions -> meanings, abbreviation and description
+
+"express": "^4.19.2"
+
+here express has 3 parts 
+
+1st part = 4
+2nd part = 19
+3rd part = 2  
+
+Here 3rd Part is Minor Fixes, Optional Updates in short
+
+Here 2nd Part is Bug Fixes and recommended installations
+
+Here 1st Part is Major Release of the package 
+
+^ means to be strict or lock that version, that means 4.19.2 to 5.00.0 tak every version can be installed
+
+While installing we can install package of any version specifying its version 
+
+ex . npx create-react-app@latest

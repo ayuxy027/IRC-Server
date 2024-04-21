@@ -1,0 +1,14 @@
+REST API - JSON Database
+
+GET /users - HTML Document Render 
+
+GET /api/users/1 - get user with ID 1
+GET /api/users/2 - get user with ID 2
+
+POST /api//users - create a new user
+
+PATCH /api/users/id - edit the user with its ID 
+
+DELETE /api/users/1 - delete the user
+
+refer - https://mockaroo.com/ to test Database

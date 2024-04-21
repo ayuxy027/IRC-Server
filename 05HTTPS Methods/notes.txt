@@ -1,0 +1,39 @@
+HTTPS Methods :-
+
+
+1. GET
+
+-- When you want to get some datat from the server, When you enter a URL and hit enter then browser uses GET
+
+   We can find this in inspect section -> Network -> Refresh the page -> Headers
+
+
+2. POST 
+
+--When we have to enter , submit or mutate the datat present in the server
+
+  Used in Forms and Entries
+
+
+   <---- We won't be using the rest of the methods in the 95% scenarios ---->
+
+3. PUT
+
+ -- Doing changes in POST method like Editing, Uploading and Changing the data present in the Server
+
+
+4. PATCH
+
+-- PATCH is used for making partial updates to a resource on the server. 
+
+   It's like making specific modifications to existing data without replacing the entire resource. 
+
+   For example, you might use PATCH to update only the email address or phone number of a user profile without affecting other fields.
+
+5. DELETE
+
+-- As the name suggests, DELETE is used to remove a resource from the server. 
+
+   It's like deleting a file or removing a record from a database.
+   
+   Once a resource is deleted using the DELETE method, it's no longer accessible or retrievable from the server.
